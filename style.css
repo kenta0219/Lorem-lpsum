@@ -161,6 +161,7 @@ main {
 	font-size: 16px;
 	color: #000000;
 	padding-bottom: 90px;
+	width:320px;
 }
 .blog-headline2 {
 	font-size: 16px;
@@ -168,7 +169,7 @@ main {
 }
 .blog-text-box {
 	width: 980px;
-	margin: 0 auto;
+	margin: 0 auto;                   
 }
 .fa {
 	font-size: 60px;
@@ -402,7 +403,7 @@ p {
 }
 .blog-text-box {
 	width:90%;
-	margin: 0 40px 0 40px;
+	margin: 0 auto;
 }
 .blog-item-box img{
 	background-image: url(img/websuku.png);
@@ -449,11 +450,13 @@ p {
 	width:320px;
 	float:none;
 	height: auto;
+	margin:0 auto;
 }
 .blog-subtext2 {
 	float:none;
 	width:320px;
 	height: auto;
+	margin:0 auto;
 }
 .social {
 	font-size: 60px;
@@ -487,6 +490,7 @@ p {
 	text-align:center;
 	height: auto;
 	margin:0 auto;
+	padding:0 0 30px 30px;
 }
 .profile-item-headline {
 	font-size:20px;
@@ -554,6 +558,7 @@ footer {
 }
 .footer-text {
 	margin:0 auto;
+	padding:0 0;
 }
 
 
